@@ -3,3 +3,5 @@ This code provides the working implementation of the transfer matrix, which serv
 <br>
 <br>
 Here, the "all_in_one" file contains the code implementation of the transfer matrix, while the "input_from_excel" file is used to extract performance parameters from the reflectance values for a specific analyte.
+Comsol File can be accessed through this link: https://drive.google.com/drive/folders/1HC9THEBuEsU-8nKRQ93TLaOhqds4qmhs?usp=sharing
+
